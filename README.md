@@ -54,3 +54,10 @@ By working on this, learners build a strong foundation in combining programming 
 **Conclusion**:-
 
 The Automated Report Generation project demonstrates how Python can be used to transform raw data into a polished and structured PDF document without manual intervention. By combining data reading, analysis, and formatted output generation, the project delivers a complete end-to-end solution. It equips learners with practical skills in data handling, automation, and report design, all of which are essential in today’s data-driven environment. Furthermore, the project highlights the importance of automation in improving efficiency and accuracy, paving the way for advanced applications in data science, business intelligence, and professional documentation.
+
+
+**Output**:-
+
+<img width="1919" height="1008" alt="Image" src="https://github.com/user-attachments/assets/a4f5a452-b07d-46e4-9408-aa56e2758570" />
+
+<img width="1919" height="1004" alt="Image" src="https://github.com/user-attachments/assets/96efd055-80ad-42e5-b153-bbb678b9266a" />
